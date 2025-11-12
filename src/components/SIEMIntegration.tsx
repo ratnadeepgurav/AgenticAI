@@ -12,7 +12,7 @@ const mockAlerts = [
     eventType: 'Brute Force Attack',
     severity: 'High',
     description: 'Multiple failed login attempts detected',
-    geoLocation: 'Russia'
+    geoLocation: 'India'
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const mockAlerts = [
     eventType: 'Privilege Escalation',
     severity: 'Medium',
     description: 'Unauthorized sudo access attempt',
-    geoLocation: 'Internal'
+    geoLocation: 'India'
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ const mockAlerts = [
     eventType: 'Malware Detection',
     severity: 'High',
     description: 'Suspicious file execution detected',
-    geoLocation: 'Internal'
+    geoLocation: 'India'
   },
   {
     id: 4,
@@ -39,7 +39,7 @@ const mockAlerts = [
     eventType: 'DDoS Attempt',
     severity: 'Critical',
     description: 'High volume of requests from single source',
-    geoLocation: 'China'
+    geoLocation: 'India'
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ const mockAlerts = [
     eventType: 'Data Exfiltration',
     severity: 'Medium',
     description: 'Unusual outbound data transfer patterns',
-    geoLocation: 'Internal'
+    geoLocation: 'India'
   }
 ];
 

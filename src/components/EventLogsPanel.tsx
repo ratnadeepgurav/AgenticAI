@@ -14,7 +14,7 @@ const mockLogs = [
     server: 'web-01',
     type: 'Authentication',
     level: 'INFO',
-    message: 'Successful login from user: john.doe@company.com',
+    message: 'Successful login from user: deepgurav2329@gmail.com',
     source: '192.168.1.105'
   },
   {

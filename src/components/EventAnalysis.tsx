@@ -9,8 +9,8 @@ const sessionData = [
     ip: '203.0.113.42',
     failedLogins: 15,
     binariesExecuted: 3,
-    country: 'Russia',
-    city: 'Moscow',
+    country: 'India',
+    city: 'UP',
     lastActivity: '15:43:12',
     riskScore: 95
   },
@@ -19,8 +19,8 @@ const sessionData = [
     ip: '198.51.100.27',
     failedLogins: 8,
     binariesExecuted: 0,
-    country: 'China',
-    city: 'Beijing',
+    country: 'India',
+    city: 'MP',
     lastActivity: '15:39:18',
     riskScore: 78
   },
@@ -29,8 +29,8 @@ const sessionData = [
     ip: '172.16.0.89',
     failedLogins: 2,
     binariesExecuted: 12,
-    country: 'Internal',
-    city: 'Network',
+    country: 'India',
+    city: 'MH',
     lastActivity: '15:38:44',
     riskScore: 62
   }
